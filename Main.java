@@ -13,13 +13,13 @@ System.out.println("*     " + highSchoolName + " Snack Bar *");
 System.out.println("*                                    *");
 System.out.println("*     Drink .......... $" + drinkPrice + "*");
 System.out.println("*     Candy .......... $" + candyPrice + "*");
-System.out.println("*     Hot Dog ........ $" + hotDogPrice + " *");
-System.out.println("*     Hamburger ...... $" + hamburgerPrice + *");
+System.out.println("*     Hot Dog ........ $" + hotDogPrice + "*");
+System.out.println("*     Hamburger ...... $" + hamburgerPrice + " *");
 System.out.println("*                                    *");
 System.out.println("**************************************");
 
 
-"Drink", qtyDrinks, drinkPrice, drinksTotal);
+
 
 
     }
