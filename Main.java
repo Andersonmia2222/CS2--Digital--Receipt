@@ -27,7 +27,7 @@ public class Main {
    int numberHotDog = hotdogCount;
    int numberHamburger = hamburgerCount;
 
-   double taxRate = 0.08;
+   double taxRate = 0.07;
    double subtotal = priceDrink*numberDrink+priceCandy*numberCandy+priceHotDog*numberHotDog+priceHamburger*numberHamburger;
    double taxTotal = subtotal*taxRate;
    double total = subtotal+taxTotal;
