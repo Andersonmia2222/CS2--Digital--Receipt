@@ -12,9 +12,9 @@ public class Main {
   int hamburgerCount = input.nextInt();
 
   input.nextLine();
-   System.out.println("enter high school name");
-   String highSchoolName = input.nextLine();
-   String initials = "BWL";
+   system.out.println("enter high school name");
+   string highSchoolName = input.nextLine();
+   string initials = "BWL";
 
    double priceDrink = 3.00;
    double priceCandy = 1.00;
